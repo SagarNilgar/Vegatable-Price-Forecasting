@@ -20,13 +20,13 @@ def result():
 
     X= np.array([[ state,district,day,month]])
     
-    scaler_path= r'D:\VIT\Sem 5 (3 yr)\vegatble_forcatsing\Vegatable-Price-Forecasting\models\sc.sav'
+    scaler_path= r'D:\VIT\Sem 5 (3 yr)\vegatble_forcatsing\Vegatable-Price-Forecasting\models\sc1.sav'
     
     sc=joblib.load(scaler_path)
 
     X_std= sc.transform(X)
 
-    model_path=r'D:\VIT\Sem 5 (3 yr)\vegatble_forcatsing\Vegatable-Price-Forecasting\models\RandomForestRegressorcopy.sav'
+    model_path=r'D:\VIT\Sem 5 (3 yr)\vegatble_forcatsing\Vegatable-Price-Forecasting\models\RF.sav'
 
     model= joblib.load(model_path)
 
