@@ -29,10 +29,10 @@ We tested liner regression algorithm and random forest forset algorithm on the d
 
 ## Authors
 
-- [@Aslamali20](https://github.com/aslamali20)
 - [@SagarNilgar](https://github.com/SagarNilgar)
 - [@HeenaKauser20](https://github.com/HeenaKauser20)
 - [@Sagarshedge20](https://github.com/Sagarshedge20)
+- [@Aslamali20](https://github.com/aslamali20)
 
 
 
