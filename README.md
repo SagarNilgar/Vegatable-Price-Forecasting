@@ -9,7 +9,7 @@ We tested liner regression algorithm and random forest forset algorithm on the d
 
 
 ```bash
-  Streamlit run Final.py
+  Streamlit run FinalApp.py
 ```
 
 
