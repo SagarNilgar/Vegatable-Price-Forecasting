@@ -23,6 +23,8 @@ We tested liner regression algorithm and random forest forset algorithm on the d
 - Sklearn. 
 - Pickle.
 
+![ss1](https://user-images.githubusercontent.com/99079432/155480121-1ecde7e7-70e1-417e-9736-f8fe9f33d790.jpeg)
+![ss2](https://user-images.githubusercontent.com/99079432/155480165-287cb223-38b5-4144-ab0c-70e24021f977.jpeg)
 
 
 
